@@ -41,8 +41,6 @@
 	<classpathentry kind="lib" path="webDriverManager/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
 	<classpathentry kind="lib" path="webDriverManager/slf4j-api-1.7.32.jar"/>
 	<classpathentry kind="lib" path="webDriverManager/webdrivermanager-5.0.2.jar"/>
-	<classpathentry kind="lib" path="libLogging/commons-logging-1.2.jar"/>
-	<classpathentry kind="lib" path="libLogging/log4j-1.2.16.jar"/>
 	<classpathentry kind="lib" path="libReportNG/guice-3.0.jar"/>
 	<classpathentry kind="lib" path="libReportNG/reportng-1.1.4.jar"/>
 	<classpathentry kind="lib" path="libReportNG/velocity-1.4.jar"/>
